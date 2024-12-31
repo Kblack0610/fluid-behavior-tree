@@ -1,0 +1,89 @@
+{
+  "projectName": "fluid-behavior-tree",
+  "projectOwner": "ashblue",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "ashblue",
+      "name": "Ash Blue",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/643307?v=4",
+      "profile": "http://blueashes.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "JesseTG",
+      "name": "Jesse Talavera-Greenberg",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1175189?v=4",
+      "profile": "https://jesse.tg",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "PureSaltProductions",
+      "name": "PureSaltProductions",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/52610924?v=4",
+      "profile": "https://github.com/PureSaltProductions",
+      "contributions": [
+        "userTesting"
+      ]
+    },
+    {
+      "login": "mduvergey",
+      "name": "Martin Duvergey",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/18513379?v=4",
+      "profile": "https://github.com/mduvergey",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "call-stack",
+      "name": "call-stack",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/38575304?v=4",
+      "profile": "https://github.com/call-stack",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "piotr-j",
+      "name": "Piotr Jastrzebski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2499728?v=4",
+      "profile": "https://github.com/piotr-j",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hookSSi",
+      "name": "Sounghoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12372136?v=4",
+      "profile": "https://github.com/hookSSi",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "TNThomas",
+      "name": "TNThomas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9881915?v=4",
+      "profile": "https://github.com/TNThomas",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
+}
